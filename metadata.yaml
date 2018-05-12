@@ -1,0 +1,48 @@
+_repo: Yachting-Vol.-1_41971
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41971-h/images/coverpage.jpg
+creator:
+  authors:
+  - agent_name: Brassey, Thomas Brassey, Earl
+    alias: Brassey, Thomas, Sir
+    birthdate: 1836
+    deathdate: 1918
+    gutenberg_agent_id: '34179'
+    url: http://www.gutenberg.org/2009/agents/34179
+  - agent_name: Pritchett, R. T. (Robert Taylor)
+    alias: Pritchett, Robert Taylor
+    birthdate: 1828
+    deathdate: 1907
+    gutenberg_agent_id: '34159'
+    url: http://www.gutenberg.org/2009/agents/34159
+  - agent_name: Sullivan, Edward, Sir
+    birthdate: 1852
+    deathdate: 1928
+    gutenberg_agent_id: '41454'
+    url: http://www.gutenberg.org/2009/agents/41454
+  - agent_name: Seth-Smith, C. E.
+    gutenberg_agent_id: '41456'
+    url: http://www.gutenberg.org/2009/agents/41456
+  - agent_name: Watson. G. L. (George Lennox)
+    birthdate: 1851
+    deathdate: 1904
+    gutenberg_agent_id: '41457'
+    url: http://www.gutenberg.org/2009/agents/41457
+description: ''
+gutenberg_issued: '2013-02-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41971'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Yacht racing'
+- !lcc 'GV'
+- !lcsh 'Yachts'
+- !lcsh 'Yachting'
+title: Yachting, Vol. 1
+url: http://www.gutenberg.org/ebooks/41971
